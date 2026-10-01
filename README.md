@@ -21,3 +21,5 @@ Practicar el uso de Git y GitHub y aprender a organizar un proyecto.
 
 ## Autor
 Santiago Olivares Legaspi
+## Estado del proyecto
+Prototipo inicial.
